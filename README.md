@@ -1,7 +1,5 @@
 # Project Title (Update)
 
-Add a description of your project here.
-
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
